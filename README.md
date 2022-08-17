@@ -1,3 +1,3 @@
 # project_one #
 
-this is my first project, studying html, css and Js
+_this is my first project, studying html, css and Js_
